@@ -1,0 +1,44 @@
+ body {
+	font-family: 'microsoft yahei', Arial, sans-serif;
+	background-color: #222;
+	color:#fff;
+}
+
+ .form-signin {
+ 	max-width: 300px;
+ 	padding: 24px;
+ 	padding-bottom: 40px;
+ 	
+ 	margin: 80px auto;
+ 	text-align: center;
+ 	background-color: #555;
+ }
+  .form-signin>h2{
+  	margin-bottom: 24px;
+  }
+ .bigicon {
+ 	font-size: 100px;
+ 	/*color: #428bca;*/
+ 	color: #f08000;
+ }
+ 
+ .tips {
+ 	color: #f08000;
+ 	margin:10px;
+ 	/*visibility: visible;*/
+ }
+ 
+ input {
+ 	margin-bottom: 20px;
+ }
+ 
+ .checkbox {
+ 	margin-left: 20px;
+ 	text-align: left;
+ 	/*color: #f08000;*/
+ }
+ .confirm{
+ 	color:#222;
+ 	background-color: #f08000;
+ }
+ 
